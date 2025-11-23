@@ -1,3 +1,5 @@
+import './globals.css'
+
 export const metadata = {
   title: 'Multimodal RAG Q&A App',
   description: 'A RAG-based question-answering system',
